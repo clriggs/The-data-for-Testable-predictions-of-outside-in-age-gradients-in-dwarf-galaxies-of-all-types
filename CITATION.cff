@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Claire, Alyson, Ferah
+  given-names: Riggs, Brooks, Munshi
+orcid: http://orcid.org/0000-0001-8894-5671, http://orcid.org/0000-0002-0372-3736, http://orcid.org/0000-0002-9581-0297
+title:clriggs/The-data-for-Testable-predictions-of-outside-in-age-gradients-in-dwarf-galaxies-of-all-types: Additional plots for "Testable predictions of outside-in age gradients in dwarf galaxies of all types"
+version: v0
+date-released: 2024-09-27
